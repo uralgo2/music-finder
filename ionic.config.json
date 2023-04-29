@@ -1,0 +1,8 @@
+{
+  "name": "Music Finder!",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "29192fa4"
+}

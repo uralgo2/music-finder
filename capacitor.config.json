@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Music Finder!",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
